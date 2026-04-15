@@ -1,3 +1,5 @@
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Manan-Vashishtha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
@@ -40,6 +42,10 @@
 <img src="https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb" />
 </p>---
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,git,github,vscode" />
+</p>
+
 📊 GitHub Stats
 
 <p align="center">
@@ -77,4 +83,7 @@ Consistency + Discipline = Success 🚀
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Manan-Vashishtha/Manan-Vashishtha/output/snake.svg" />
+</p>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
