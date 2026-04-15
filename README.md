@@ -67,3 +67,7 @@
 ⚡ Fun Fact
 
 Consistency + Discipline = Success 🚀
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Manan-Vashishtha/Manan-Vashishtha/output/snake.svg" />
+</p>
