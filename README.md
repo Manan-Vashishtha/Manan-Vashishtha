@@ -4,7 +4,7 @@
   <img src="https://komarev.com/ghpvc/?username=Manan-Vashishtha&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Manan Vashishtha</h1><h3 align="center">Aspiring AI Engineer | MERN Stack Developer | Java + DSA</h3>---
+<h1 align="center">Hi 👋, I'm Manan Vashishtha</h1><h3 align="center"> MERN Stack Developer | Aspiring AI Engineer | Java + DSA</h3>---
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+in+Java;MERN+Stack+Developer;AI+Engineer;Consistent+Learner🚀&center=true&width=500&height=50">
