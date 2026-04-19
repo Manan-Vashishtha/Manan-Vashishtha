@@ -7,7 +7,7 @@
 <h1 align="center">Hi 👋, I'm Manan Vashishtha</h1><h3 align="center">Aspiring AI Engineer | MERN Stack Developer | Java + DSA</h3>---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+in+Java;MERN+Stack+Developer;Future+AI+Engineer;Consistent+Learner🚀&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=DSA+in+Java;MERN+Stack+Developer;AI+Engineer;Consistent+Learner🚀&center=true&width=500&height=50">
 </p>---
 
 🌐 Connect with me
